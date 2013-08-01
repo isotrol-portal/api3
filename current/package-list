@@ -1,0 +1,13 @@
+com.isotrol.impe3.api
+com.isotrol.impe3.api.component
+com.isotrol.impe3.api.component.atom
+com.isotrol.impe3.api.component.excel
+com.isotrol.impe3.api.component.html
+com.isotrol.impe3.api.component.pdf
+com.isotrol.impe3.api.component.sitemap
+com.isotrol.impe3.api.content
+com.isotrol.impe3.api.metadata
+com.isotrol.impe3.api.modules
+com.isotrol.impe3.api.support
+com.isotrol.impe3.nr.api
+com.isotrol.impe3.test
